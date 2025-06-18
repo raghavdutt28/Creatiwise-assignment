@@ -25,7 +25,7 @@ const Card = ({ heading, text, tags, image }) => {
                         </ul>
 
                     </div>
-                    <div>
+                    <div className='pt-4 sm:pt-0'>
                         <PrimaryBtn text="View Case Study" />
                     </div>
                 </div>
