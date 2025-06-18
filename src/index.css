@@ -1,0 +1,112 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Shrikhand&family=Syne:wght@400..800&display=swap");
+@import "tailwindcss";
+
+@theme {
+  --color-dark: #010208;
+  --color-gray: #cbcbcb;
+  --color-white: #ffffff;
+  --color-accent: rgba(255, 128, 74, 1);
+  --color-container: rgba(203, 203, 203, 0.48);
+
+  --font-syne: "Syne", sans-serif;
+  --font-poppins: "Poppins", san-serif;
+
+
+
+
+  --text-btn: 16px;
+  --text-btn--line-height: 20px;
+  --text-btn--font-weight: 400;
+
+
+  --text-btn2: 14px;
+  --text-btn2--line-height: 14px;
+  --text-btn2--font-weight: 400;
+
+
+
+
+  --text-reg: 16px;
+  --text-reg--line-height: 16px;
+  --text-reg--font-weight: 400;
+
+  --text-reg2: 18px;
+  --text-reg2--line-height: 18px;
+  --text-reg2--font-weight: 400;
+
+  --text-reg3: 14px;
+  --text-reg3--line-height: 20px;
+  --text-reg3--font-weight: 400;
+
+  --text-heading: 64px;
+  --text-heading--line-height: 80px;
+  --text-heading--font-weight: 800;
+
+  --text-heading2: 40px;
+  --text-heading2--line-height: 100%;
+  --text-heading2--font-weight: 700;
+
+  --text-heading3: 32px;
+  --text-heading3--line-height: 40px;
+  --text-heading3--font-weight: 500;
+
+  --text-heading4: 24px;
+  --text-heading4--line-height: 32px;
+  --text-heading4--font-weight: 600;
+
+  --text-heading5: 40px;
+  --text-heading5--line-height: 100%;
+  --text-heading5--font-weight: 600;
+
+
+
+/* mobile */
+
+  --text-btnm: 14px;
+  --text-btnm--line-height: 18px;
+  --text-btnm--font-weight: 400;
+
+  --text-btn2m: 12px;
+  --text-btn2m--line-height: 16px;
+  --text-btn2m--font-weight: 400;
+
+
+
+
+  --text-regm: 14px;
+  --text-regm--line-height: 18px;
+  --text-regm--font-weight: 400;
+
+  --text-reg2m: 16px;
+  --text-reg2m--line-height: 22px;
+  --text-reg2m--font-weight: 400;
+
+  --text-reg3m: 12px;
+  --text-reg3m--line-height: 16px;
+  --text-reg3m--font-weight: 400;
+
+
+
+  --text-headingm: 40px;
+  --text-headingm--line-height: 52px;
+  --text-headingm--font-weight: 800;
+
+  --text-heading2m: 32px;
+  --text-heading2m--line-height: 40px;
+  --text-heading2m--font-weight: 700;
+
+  --text-heading3m: 24px;
+  --text-heading3m--line-height: 32px;
+  --text-heading3m--font-weight: 500;
+
+  --text-heading4m: 20px;
+  --text-heading4m--line-height: 28px;
+  --text-heading4m--font-weight: 600;
+
+  --text-heading5m: 28px;
+  --text-heading5m--line-height: 36px;
+  --text-heading5m--font-weight: 600;
+}
+#root {
+  background-color: #010208;
+}
