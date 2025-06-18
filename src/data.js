@@ -98,7 +98,7 @@ const wtsData = [{
     Name: "Second Person",
     Company: "Facebook",
     Image: profile1,
-    Text: "HAHAHAHAHAHAHAHAHAHAHAHAHAHA. HAHAHAHAHAHAHA. HAHAHAHAHAH. HAHAHAHAHAHAHA. AHAHAHAHAH. HAHAHAHAHAHAHAHAHAHAHAH. HAHAHAHAHAHAHAHAHAHAHAHAHAHA. HAHAHAHAHHAHAHAHAHAHAHAHAHAHAHAHAHA. HAHAHAHAHA"
+    Text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vehicula sem vitae turpis sollicitudin, in vestibulum nunc porttitor. Curabitur et lacus ac risus fermentum pretium. Donec a felis vel sapien ultricies iaculis."
 },
 
 ];

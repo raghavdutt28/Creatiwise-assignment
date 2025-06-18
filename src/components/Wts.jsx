@@ -19,7 +19,7 @@ const Wts = ({ data }) => {
                         </svg>
 
                     </div>
-                    <div className="relative z-10">
+                    <div className="z-10">
                         <h4 className="text-heading3m md:text-heading3 break-words whitespace-normal">{data.Text}</h4>
                     </div>
                 </div>
