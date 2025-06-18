@@ -4,7 +4,7 @@ const Wts = ({ data }) => {
     return (
         <div className='flex flex-col gap-[32px]'>
             <div className="grid grid-rows-3 md:grid-rows-none md:grid-cols-5">
-                <div className="flex gap-[16px] items-center row-span-1 md:col-span-2">
+                <div className="flex gap-[16px] items-center row-span-1 md:col-span-2 z-10">
                     <img src={data.Image} alt="Profile Image" />
                     <div className="flex flex-col gap-[4px]">
                         <h5 className="text-heading4m md:text-heading4">{data.Name}</h5>
