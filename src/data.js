@@ -1,7 +1,7 @@
 import image1 from './assets/works/image 21.png';
 import image2 from './assets/works/image 22.png';
 import image3 from './assets/works/image 23.png';
-import profile1 from './assets/wts/frame.png'
+import profile1 from './assets/wts/Frame.png'
 import hero1 from './assets/hero-asset-1.png'
 import hero2 from './assets/hero-asset-2.png'
 
