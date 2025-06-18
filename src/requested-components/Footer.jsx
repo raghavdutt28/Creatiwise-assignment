@@ -68,7 +68,7 @@ const Footer = () => {
             <div className="w-full flex flex-col justify-center items-center gap-[32px] px-[20px] md:px-[100px] pt-[24px] pb-[12px] md:pb-[32px] md:pt-[112px]">
 
                 <h1 className="text-headingm md:text-heading uppercase">let's talk!</h1>
-                <p className="text-reg2m md:text-reg2 font-poppins flex gap-[8px]">
+                <a href="mailto:raghavd.bitmesra@gmail.com" className="text-reg2m md:text-reg2 font-poppins flex gap-[8px]">
                     raghav.bitmesra@gmail.com<svg
                         xmlns="http://www.w3.org/2000/svg"
                         viewBox="0 0 17 17"
@@ -84,7 +84,7 @@ const Footer = () => {
                         />
                     </svg>
 
-                </p>
+                </a>
                 <div className="w-full flex md:flex-row flex-col justify-between items-center gap-2">
                     <p className="text-reg2m md: text-reg2 font-poppins">
                         © Raghav Dutta - 2025
